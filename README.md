@@ -1,4 +1,3 @@
-<br clear="both">
 
 <h1 align="center">Hi, I'am Fahma Zuaf Zarir</h1>
 
