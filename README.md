@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h2 align="center">Hi, I'am Fahma Zuaf Zarir</h2>
+<h1 align="center">Hi, I'am Fahma Zuaf Zarir</h1>
 
 ###
 
-<h3 align="center">Statistic Student at Universitas Islam Indonesia | Data Scientist</h3>
+<h2 align="center">Statistic Student at Universitas Islam Indonesia | Data Scientist</h2>
 
 ###
 
