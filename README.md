@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="center">Statistic Student at Universitas Islam Indonesia | Data Scientist</h2>
+<h2 align="center">Statistic Student at Universitas Islam Indonesia </h2>
 
 ###
 
