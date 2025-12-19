@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img height="237" src="https://raw.github.com/FahmaZuaf/FahmaZuaf/blob/main/backgroundgithub.jpg"/>
+  <img height="237" src="https://github.com/FahmaZuaf/FahmaZuaf/blob/main/backgroundgithub.jpg"/>
 </div>
 
 ###
